@@ -111,7 +111,7 @@ __END__
 
 =head1 NAME
 
-Plack::Middleware::ESI - Edge Side Includes in PSGI apps
+Plack::Middleware::ESI - PSGI middleware for Edge Side Includes (ESI)
 
 =head1 SYNOPSIS
 

@@ -1,7 +1,7 @@
 package Plack::Middleware::ESI;
-our $VERSION = '0.1';
 use strict;
 use warnings;
+our $VERSION = '0.1';
 use parent qw(Plack::Middleware);
 use Plack::Util;
 use Plack::Request;
